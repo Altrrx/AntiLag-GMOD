@@ -2,7 +2,7 @@
 
 i present to you. the antlag CFG, why? because i wanted to expose a basic antilag script i made and customized
 
-oh i hate the lag, if i lag too much i shoot myself bruh..
+im gonna shoot myself lol 
 
 WELL LETS GO!
 
