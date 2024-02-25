@@ -2,8 +2,6 @@
 
 i present to you. the antlag CFG, why? because i wanted to expose a basic antilag script i made and customized
 
-im gonna shoot myself lol 
-
 WELL LETS GO!
 
 the file consists in helpful gmod commands in a set, plus new commands!
