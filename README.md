@@ -29,3 +29,5 @@ and the script should initialize.
 
 Now that the script has ran and made the commands, enjoy playing gmod without lag!
 
+also theres sv_cheats 1 commands
+
