@@ -1,6 +1,6 @@
 # Antilag For gMod
 
-i present to you. the antlag CFG, why? because i wanted to expose a basic antilag script i made and customized
+i present to you. the antlag CFG, why? because i wanted to show off a basic antilag script i made and customized
 
 WELL LETS GO!
 
